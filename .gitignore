@@ -1,0 +1,2 @@
+# exclude the lein immutant build directory
+/target
