@@ -1,5 +1,5 @@
 (ns pingpong.core
-  (:require pingping.web)
+  (:require pingpong.web)
   (:gen-class))
 
 (defn -main [& args]
