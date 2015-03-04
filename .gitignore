@@ -1,2 +1,7 @@
-# exclude the lein immutant build directory
+# exclude the lein immutant build directories
 /target
+/bin
+
+# Eclipse Counterclockwise files
+.project
+.classpath
